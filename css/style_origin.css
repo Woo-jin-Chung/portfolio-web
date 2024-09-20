@@ -5805,9 +5805,7 @@ button.bg-dark:focus {
 .align-items-stretch {
   -webkit-box-align: stretch !important;
   -ms-flex-align: stretch !important;
-  align-items: stretch !important;
-  max-width: 85%;
-  max-height: 85%;}
+  align-items: stretch !important; }
 
 .align-content-start {
   -ms-flex-line-pack: start !important;
